@@ -28,7 +28,7 @@ It also explores Hugging Face’s **pipeline API** for production-ready predicti
 ---
 
 ## 📁 Dataset  
-- **Source**: [Amazon Fine Food Reviews](https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial/input)  
+- **Source**: [Amazon Reviews](https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial/input)  
 - **Description**: ~500,000 food product reviews including rating (1–5 stars), text, and metadata.  
 - **Subset Used**: 500 reviews for demonstration (scalable to full dataset).  
 - **Key Attributes**:  
