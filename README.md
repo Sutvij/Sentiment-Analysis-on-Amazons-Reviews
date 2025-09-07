@@ -1,6 +1,6 @@
 # ⚡ Sentiment Analysis on Amazon Reviews  
 
-![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Frealpython.com%2Fpython-nltk-sentiment-analysis%2F&psig=AOvVaw0dEIKZMo80ScbCuENoQvHY&ust=1757359537243000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCJj72tCwx48DFQAAAAAdAAAAABAE)
+![Python](https://github.com/Sutvij/Sentiment-Analysis-on-Amazons-Reviews/blob/main/Sentiment%20Analysis.png)
 
 A complete **Natural Language Processing (NLP)** project in Python to analyse the sentiment of Amazon Fine Food Reviews using both **lexicon-based (VADER)** and **transformer-based (RoBERTa)** models.  
 
